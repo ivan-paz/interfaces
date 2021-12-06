@@ -7,5 +7,5 @@ El repositorio está organizado de en tres carpetas principales correspondientes
 
 0. **Proyectos (Citlali H.)**: Carpeta con encargos y lecturas. 
 1. **Programación (Iván P.)**: Carpeta con ejercicios y ejemplos.
-2. ***Electrónica (Lina B.)***: Carpeta con ejercicios y ejemplos.
+2. **Electrónica (Lina B.)**: Carpeta con ejercicios y ejemplos.
 
