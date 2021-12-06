@@ -1,6 +1,6 @@
-# Miau Tangible
+# Interfaces Tangibles
 
-## Hola
+## ¡Hola!
 Este repositorio contiene recursos para el desarrollo de proyectos de interfaces tangibles.
 El repositorio está organizado de en tres carpetas principales correspondientes a los bloques guiados por Citlali Hernández, Iván Paz y Lina Bautista.
 
