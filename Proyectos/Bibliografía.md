@@ -1,6 +1,6 @@
 # Bibliografía recomendada
 
-**Norman,Donald A.La Psicología de los objetos cotidianos.Madrid: Nerea, 1990.**
+Norman,Donald A.La Psicología de los objetos cotidianos.Madrid: Nerea, 1990.
 
 Dunne, Anthony. (2013). Speculate everything. Design, Fiction and Social Dreaming. MIT
 Press.
